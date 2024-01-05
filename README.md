@@ -1,0 +1,1 @@
+Note that you will need 4 twitter accounts (edit the acc.py file, and put your information inside there) to scrape. Also, you will need Python and Selenium installed. Just run the RUN_ME.py file to start scraping!
